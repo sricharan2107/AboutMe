@@ -1,33 +1,30 @@
-👋 Hello, I'm Sri Charan Pabbathi!
-
-💻 Full Stack Developer | 🧩 Problem Solver | 💾 Coding Enthusiast 🖥️ | 🎨 Design Enthusiast | 🐊 Florida Gator 🏈 
-
-🌟 About Me:
-I'm a tech enthusiast with a deep passion for coding and problem-solving. I thrive on turning complex challenges into elegant solutions through code. My journey as a full-stack developer has allowed me to explore various facets of software development, from front-end design to back-end logic.
-
-🐊 Go Gators! 🏈
-As a proud Florida Gator, I bleed orange and blue, and I bring that same spirit of determination and teamwork to my coding projects.
-
-💾 Coding is My Craft:
-Coding isn't just a job for me; it's a craft that I constantly hone and perfect. Whether it's crafting clean and efficient code or architecting robust software solutions, I'm always in my element when coding.
-
-🚀 What I Do:
-- 💡 Craft clean and efficient code.
-- 🌐 Build responsive web applications.
-- 🛠️ Solve real-world problems with technology.
-- 🎨 Design user-friendly interfaces.
+# 💫 About Me:
+👋 Hello, I'm Sri Charan Pabbathi!<br><br>💻 Full Stack Developer | 🧩 Problem Solver | 💾 Coding Enthusiast 🖥️ | 🎨 Design Enthusiast | 🐊 Florida Gator 🏈<br><br>🌟 About Me: I'm a tech enthusiast with a deep passion for coding and problem-solving. I thrive on turning complex challenges into elegant solutions through code. My journey as a full-stack developer has allowed me to explore various facets of software development, from front-end design to back-end logic.<br><br>🐊 Go Gators! 🏈 As a proud Florida Gator, I bleed orange and blue, and I bring that same spirit of determination and teamwork to my coding projects.<br><br>💾 Coding is My Craft: Coding isn't just a job for me; it's a craft that I constantly hone and perfect. Whether it's crafting clean and efficient code or architecting robust software solutions, I'm always in my element when coding.<br><br>🚀 What I Do:<br><br>💡 Craft clean and efficient code.<br>🌐 Build responsive web applications.<br>🛠️ Solve real-world problems with technology.<br>🎨 Design user-friendly interfaces.<br>📫 Let's Connect:<br><br>📧 Email: sricharanpabbathi@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/sricharanpabbathi/<br>🌐 Portfolio: https://charanportfolio.netlify.app/#/<br>🌟 Open to Collaboration: I'm always excited about collaborating on innovative projects and learning from others. If you have an interesting opportunity or just want to chat about tech, feel free to reach out!<br><br>🚴 Hobbies: When I'm not coding, you can find me playing instruments, singing, exploring new technologies, or cheering for the Florida Gators on game day.<br><br>🌍 Let's make the digital world a better place, one line of code at a time! 💻🐊🏈🖥️
 
 
-📫 Let's Connect:
-- 📧 Email: sricharanpabbathi@gmail.com
-- 🔗 LinkedIn:  https://www.linkedin.com/in/sricharanpabbathi/
-- 🌐 Portfolio: https://charanportfolio.netlify.app/#/
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sricharan2107) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sricharan210701) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sricharanpabbathi) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sricharan2107&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sricharan2107&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sricharan2107&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🌟 Open to Collaboration:
-I'm always excited about collaborating on innovative projects and learning from others. If you have an interesting opportunity or just want to chat about tech, feel free to reach out!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sricharan2107&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-🚴 Hobbies:
-When I'm not coding, you can find me playing instruments, singing, exploring new technologies, or cheering for the Florida Gators on game day.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🌍 Let's make the digital world a better place, one line of code at a time! 💻🐊🏈🖥️
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sricharan2107&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=sricharan2107&icon=6&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
